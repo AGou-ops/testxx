@@ -1,18 +1,20 @@
 ---
 title: "First"
-date: 2023-04-07T19:39:59+08:00
-draft: false
+date: 2023-04-07T21:15:54+08:00
+draft: flase
 description: "。。"
 summary: "。。"
-categories: ["helo"]
+slug: "homepage-layout"
 tags: ["homepage", "layouts", "docs"]
 ---
 
-### First post.
+
+use this command to create a new post：
 
 
-title: "Charts"
-date: 2019-03-06
-description: "Guide to Chart.js usage in Congo"
-summary: "Congo includes Chart.js for powerful charts and data visualisations."
-tags: ["chart", "sample", "graph", "shortcodes"]
+```
+ hugo new "content/posts/first.md" 
+```
+ 
+ 
+ 
